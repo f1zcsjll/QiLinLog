@@ -1,1 +1,1 @@
-[]
+[{"id":"11b69391-f41c-4065-9d0b-1ab23220b49d","index":0,"time":1680257849,"costtime":1680257849,"pricenum":512.2,"priceuser":"lolin","pricetype":0,"beizhu":"","extend":""}]
