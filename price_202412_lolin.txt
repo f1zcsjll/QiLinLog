@@ -1,1 +1,1 @@
-[{"id":"3003461d-b518-46f0-95f1-e164001328f1","index":0,"time":1733021986,"costtime":1733021986,"pricenum":100.0,"priceuser":"lolin","pricetype":0,"beizhu":"\u725B\u8089","extend":""}]
+[{"id":"3003461d-b518-46f0-95f1-e164001328f1","index":0,"time":1733021986,"costtime":1733021986,"pricenum":100.0,"priceuser":"lolin","pricetype":0,"beizhu":"\u725B\u8089","extend":""},{"id":"c223c6d4-e500-46f1-ab3b-e120625da578","index":0,"time":1733021995,"costtime":1733021995,"pricenum":70.0,"priceuser":"lolin","pricetype":0,"beizhu":"\u7F8A\u8089","extend":""}]
