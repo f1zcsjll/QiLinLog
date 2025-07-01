@@ -1,1 +1,1 @@
-[{"id":"d3b1c50c-f6c4-4864-a352-0d5cd0b7461a","index":0,"time":1751338678,"costtime":1751338678,"pricenum":22.32,"priceuser":"qi","pricetype":0,"beizhu":"\u732A\u9AA8","extend":""}]
+[{"id":"d3b1c50c-f6c4-4864-a352-0d5cd0b7461a","index":0,"time":1751338678,"costtime":1751338678,"pricenum":22.32,"priceuser":"qi","pricetype":0,"beizhu":"\u732A\u9AA8","extend":""},{"id":"138a9824-a395-468e-9096-d98a257b02f8","index":0,"time":1751338709,"costtime":1751338709,"pricenum":2.8,"priceuser":"qi","pricetype":0,"beizhu":"\u5357\u74DC","extend":""}]
