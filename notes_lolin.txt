@@ -61,14 +61,5 @@
     "notedata": "788898",
     "needshowtips": false,
     "extend": ""
-  },
-  {
-    "id": "f514003dcd004649be364c43c3d56c73",
-    "index": 0,
-    "time": 1793959952,
-    "author": "lolin",
-    "notedata": "\u6D4B\u8BD51",
-    "needshowtips": false,
-    "extend": ""
   }
 ]
