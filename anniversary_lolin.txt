@@ -28,15 +28,5 @@
     "isLunisolar": false,
     "beizhu": "\u9E9F\u751F\u65E5",
     "extend": ""
-  },
-  {
-    "id": "d0ef694c85b04a30a6bc35b1a0d5f2dc",
-    "index": 0,
-    "year": 0,
-    "month": 1,
-    "day": 1,
-    "isLunisolar": true,
-    "beizhu": "\u6D4B\u8BD5",
-    "extend": ""
   }
 ]
